@@ -1,4 +1,4 @@
-## **📌 TylerType **
+## **🔧 TylerTyp**
 A simple Python app that runs in the background and counts the number of key presses. It displays a small window with the total count and supports minimizing to the system tray.
 
 ---
