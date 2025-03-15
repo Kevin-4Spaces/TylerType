@@ -1,4 +1,4 @@
-### **📌 Key Counter**
+### **📌 TylerType **
 A simple Python app that runs in the background and counts the number of key presses. It displays a small window with the total count and supports minimizing to the system tray.
 
 ---
@@ -41,9 +41,9 @@ pyinstaller --onefile --windowed key_counter.py
 
 ### **macOS (.app)**
 ```sh
-pyinstaller --onefile --windowed --name "KeyCounterApp" key_counter.py
+pyinstaller --onefile --windowed --name "TylerType" key_counter.py
 ```
-- The app bundle will be in `dist/KeyCounterApp.app`.
+- The app bundle will be in `dist/TylerType.app`.
 
 ---
 

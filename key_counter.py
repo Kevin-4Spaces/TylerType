@@ -29,7 +29,7 @@ def start_listener():
 
 # Create the main window
 window = tk.Tk()
-window.title("Key Counter")
+window.title("TylerType")
 window.geometry("300x150")
 
 label = tk.Label(window, text="Key Presses: 0", font=("Arial", 20))

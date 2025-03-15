@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='KeyCounter',
+    name='TylerType',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
@@ -39,7 +39,7 @@ exe = EXE(
 )
 app = BUNDLE(
     exe,
-    name='KeyCounter.app',
+    name='TylerType.app',
     icon='icon.ico',
     bundle_identifier=None,
 )
