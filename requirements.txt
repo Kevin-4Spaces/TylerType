@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+pynput
+pystray
+Pillow
+pyobjc-framework-Cocoa  # Required for pystray on macOS
+pywin32  # Required for pystray on Windows
+pyinstaller

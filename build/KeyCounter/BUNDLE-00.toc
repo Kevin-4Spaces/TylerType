@@ -1,0 +1,3 @@
+([('KeyCounter',
+   '/Users/kevinandersson/Documents/Development/TyperType/dist/KeyCounter',
+   'EXECUTABLE')],)
